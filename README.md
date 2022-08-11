@@ -1,5 +1,7 @@
 # Trafficlights-for-DIA
 
+![Traffic Light image](Shapes/TrafficLights/Traffic Light Red.png)
+
 Hi there,
 
 This is the simple Readme.txt accompanying my simple Traffic Lights Shapesheet.
