@@ -1,6 +1,6 @@
 # Trafficlights-for-DIA
 
-![Traffic Light image](Shapes/TrafficLights/Traffic Light Red.png)
+![Traffic Light image](TrafficLights.png)
 
 Hi there,
 
