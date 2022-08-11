@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.97.1-->
+<!--Date: Wed Jul 13 08:00:09 2011-->
+<!--By: Willem Kossen-->
+
+<name>Traffic Lights</name>
+<description>Traffic Lights</description>
+<contents>
+<!--add shapes here-->
+<object name="Traffic Lights - Traffic Light Green"><description>Green Light</description></object>
+<object name="Traffic Lights - Traffic Light Orange"><description>Orange Light</description></object>
+<object name="Traffic Lights - Traffic Light Red"><description>Red Light</description></object>
+<object name="Traffic Lights - Traffic Light Off"><description>Lights Off</description></object>
+</contents></sheet>
