@@ -14,12 +14,11 @@ Installation is simple. Extract the archive in your .dia folder while keeping th
 
 This is free to use, free to distribute, free to adapt, free to change, free to curse upon, anything you like really. See COPYING
 
-It is also free to send me 'thank you' mail. Hate mail is 1 dollar per e-mail though, payable using paypal. You can send after payment is received. Thanks for caring!
+It is also free to send me 'thank you' mail. Hate mail is 10 dollar per e-mail though, payable using paypal. You can send after payment is received. Thanks for caring!
 
 Hope it's useful.
 
 Kind Regards,
 
 Willem Kossen
-willemkossen@hotmail.com
-http://willemkossen.nl/shapes
+
